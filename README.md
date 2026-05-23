@@ -97,7 +97,7 @@ Models explored include:
 1. Clone the repository
 
 ```text
-git clone https://github.com/SergioAraya12/spotify-popularity-prediction.git
+git clone https://github.com/Jerxis/spotify-popularity-prediction.git
 cd spotify-popularity-prediction
 ```
 
